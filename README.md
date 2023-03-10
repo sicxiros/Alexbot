@@ -24,7 +24,7 @@
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/IdkJhus/NotJhuz1
+> git clone https://github.com/sicxiros/NotJhuz1
 > cd NotJhuz1
 > ls
 > npm install
